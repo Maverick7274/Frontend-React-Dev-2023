@@ -9,7 +9,7 @@
 
 # Key Points
 
-* This small sample of my work is depolyed [here]() through [DigitalOcean](https://www.digitalocean.com/)
+* This small sample of my work is depolyed [here](https://maverick7274.github.io/techwondoe-assignment) through [DigitalOcean](https://www.digitalocean.com/)
 * This is a simple CRUD application
 * This is a simple application that uses React Router to navigate between pages
 * This is a simple application that uses JSON Server to store data
